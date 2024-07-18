@@ -1,1 +1,1 @@
-This ia demo grocery App created using C# and dotnet MAUI
+This is mobile application made with Xamarin, .NET MAUI, C#, javascript
